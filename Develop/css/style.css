@@ -37,7 +37,7 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #06aed5;
   color: #000000;
   border-top: 1px dashed #000000;
 }
@@ -45,16 +45,19 @@ textarea {
 .past {
   background-color: #d3d3d3;
   color: white;
+  margin-bottom: 10px;
 }
 
 .present {
   background-color: #ff6961;
   color: white;
+  margin-bottom: 10px;
 }
 
 .future {
   background-color: #77dd77;
   color: white;
+  margin-bottom: 10px;
 }
 
 .saveBtn {
@@ -72,8 +75,5 @@ textarea {
 /*added css*/
 
 textarea {
-  margin-bottom: 5px;
-  margin-left: 20px;
-  border: 0;
   outline:solid thin;
 }
