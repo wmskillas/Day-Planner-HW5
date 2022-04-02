@@ -7,3 +7,5 @@
 I couldn't figure out how to get rid of the color bleed into the time and save button from the text area.
 
 ## Site and Gif
+[Website](https://wmskillas.github.io/Day-Planner-HW5/)
+![Day-Planner-Gif](./Develop/gif/Day-Planner-HW5.gif)
